@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\xiaotian\MyFirstjob_∂¿¡¢ø¥√≈π∑\MyFirstjob.uvproj
+Project File Date:  06/20/2017
+
+<h2>Output:</h2>
+Build target 'MyFirstjob'
+compiling stm32f10x_it.c...
+compiling main.c...
+src\main.c(128): warning:  #177-D: variable "USART_ClockInitStructure" was declared but never referenced
+linking...
+Program Size: Code=5272 RO-data=356 RW-data=4 ZI-data=1028  
+FromELF: creating hex file...
+".\obj\MyFirstjob.axf" - 0 Errors, 1 Warning(s).
